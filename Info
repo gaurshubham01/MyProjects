@@ -1,1 +1,33 @@
-these file contain information about Data Analytics Project.
+Dashboard Overview
+----------------------------
+
+The Power BI dashboard shared provides an in-depth view of sales, performance, and inventory data for Northwind Traders
+
+Insights and Observations:-
+Sales and Orders Overview:
+
+Total Net Sales: $1,354,338.
+Total Orders: 2,155.
+Total Discount: 121.
+Total Quantity Sold: 51,317 units.
+Target vs. Achievement:
+The dashboard tracks the sales target (1.5 million) versus actual net sales (1.354 million), showing a slight shortfall.
+
+Sales and order trends by month are presented, with peaks in certain months like January, April, and October, while dips appear in others like June and July.
+Sales by Country and City:
+
+Countries like the USA, Germany, Austria, Brazil, and France show significant contributions to sales, with the USA leading at 264K.
+Sales are also broken down by individual cities.
+Category and Product Performance:
+
+Beverages lead with $286,502 in net sales, followed by Dairy Products and Meat/Poultry.
+Products like "Côte de Blaye" and "Thüringer Rostbratwurst" rank among the top sales performers.
+Employee Performance:
+
+Employee sales performance is tracked, with Margaret leading at $250,162 in sales from 9,798 units across 420 orders.
+Other high performers include Janet and Nancy.
+Inventory Overview:
+
+Conclusion:-
+The dashboard provides insights into stock levels, pending orders, sales trends, top products, inventory management, and employee performance. 
+It tracks sales across regions and time periods,helping users identify strengths and weaknesses, monitor progress toward targets, and make data-driven decisions.
